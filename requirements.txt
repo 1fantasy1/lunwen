@@ -1,0 +1,32 @@
+certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1746569525376/work/certifi
+contourpy @ file:///D:/bld/contourpy_1727293720916/work
+cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1733332471406/work
+fonttools @ file:///D:/bld/fonttools_1746913613306/work
+imbalanced-learn @ file:///home/conda/feedstock_root/build_artifacts/imbalanced-learn_1728063863984/work
+importlib_resources @ file:///home/conda/feedstock_root/build_artifacts/importlib_resources_1736252299705/work
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1746352627188/work
+kiwisolver @ file:///D:/bld/kiwisolver_1725459303250/work
+matplotlib==3.9.4
+munkres==1.1.4
+numpy @ file:///D:/bld/numpy_1732314314278/work/dist/numpy-2.0.2-cp39-cp39-win_amd64.whl#sha256=8824ea87142626db7bbf79bdbcbd5b3a2fd77d7570bd62b4f705100e42b651e1
+packaging @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_packaging_1745345660/work
+pandas @ file:///D:/bld/pandas_1744430479169/work
+patsy @ file:///home/conda/feedstock_root/build_artifacts/patsy_1733792384640/work
+pillow @ file:///D:/bld/pillow_1746646223340/work
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1743089729650/work
+PySide6==6.9.0
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1733215673016/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1742920838005/work
+scikit-learn @ file:///D:/bld/scikit-learn_1716489893189/work/dist/scikit_learn-1.5.0-cp39-cp39-win_amd64.whl#sha256=45994af4e9ea7e45ec16466a10bce5553f0eb8c408292d60462d01c00c0f0636
+scikit-posthocs @ file:///home/conda/feedstock_root/build_artifacts/scikit-posthocs_1743276825424/work
+scipy @ file:///C:/bld/scipy-split_1716470385682/work/dist/scipy-1.13.1-cp39-cp39-win_amd64.whl#sha256=490e922ef930c40e74290d95915a98295b9059d02849059317bab82ba7810581
+seaborn @ file:///home/conda/feedstock_root/build_artifacts/seaborn-split_1733730015268/work
+shiboken6==6.9.0
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1733380938961/work
+statsmodels @ file:///D:/bld/statsmodels_1727986863591/work
+threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1741878222898/work
+tornado @ file:///D:/bld/tornado_1747384455519/work
+tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1742745135198/work
+unicodedata2 @ file:///D:/bld/unicodedata2_1736692548847/work
+xgboost @ file:///home/conda/feedstock_root/build_artifacts/xgboost-split_1744329155408/work/python-package
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1732827521216/work
