@@ -30,7 +30,13 @@ def plot_target_distribution(df, target_col_name=TARGET_VARIABLE):  # Use TARGET
         print(f"Error: Target column '{target_col_name}' not found in DataFrame for plotting distribution.")
         return
     plt.figure(figsize=DEFAULT_FIG_SIZE)
-    sns.countplot(x=target_col_name, data=df, palette=DEFAULT_PLOT_PALETTE)
+    sns.countplot(
+        x=target_col_name,
+        data=df,
+        hue=target_col_name,  # 将 x 变量赋值给 hue
+        palette=DEFAULT_PLOT_PALETTE,
+        legend=False  # 禁用图例（避免重复显示）
+    )
     plt.title(f'Distribution of Target Variable ({target_col_name})')
     plt.xlabel('Class')
     plt.ylabel('Count')
